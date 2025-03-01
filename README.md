@@ -11,7 +11,7 @@ Welcome to the **Network Fundamentals Learning Repository**! This repository is 
 - The concept of a **Default Gateway** and its role in routing traffic
 - **DHCP (Dynamic Host Configuration Protocol)** and how it assigns IP addresses
 
-🔗 [Go to Module 1](./Module1_Network_Addressing_and_NAT.md)
+🔗 [Go to Module 1](./Module_1.md)
 
 ---
 
