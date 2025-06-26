@@ -72,7 +72,7 @@ To reduce ARP traffic, devices maintain an **ARP cache** that stores recent mapp
 - The **ARP cache** helps store recently resolved addresses.
 - Different types of ARP serve various purposes in networking.
 
-### Next Lecture: **Data Transmission and Encapsulation** 🚀
+### Next Lecture: **Data Transmission and Encapsulation** 
 
 ---
 
