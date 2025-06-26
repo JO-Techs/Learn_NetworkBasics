@@ -61,10 +61,10 @@ Welcome to the **Network Fundamentals Learning Repository**! This repository is 
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 1. **Read through each module** in order, as they build upon one another.
 2. **Test your knowledge** by trying out real-world scenarios.
 3. **Experiment with networking tools** like Wireshark, Ping, and Traceroute.
 4. **Contribute!** If you find something missing or have improvements, feel free to submit a pull request.
 
-Happy Learning! 🎯
+Happy Learning! 
