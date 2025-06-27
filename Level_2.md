@@ -50,4 +50,4 @@ This repository contains the next level of advanced networking concepts, buildin
 ---
 
 ## Next Steps
-Each module will be covered in detail through structured lectures, practical examples, and troubleshooting scenarios. Stay tuned for in-depth content updates! 🚀
+Each module will be covered in detail through structured lectures, practical examples, and troubleshooting scenarios. Stay tuned for in-depth content updates!
