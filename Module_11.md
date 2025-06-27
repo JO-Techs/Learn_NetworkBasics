@@ -1,9 +1,9 @@
-# 🛡️ Module 11: Network Security Fundamentals
+#  Module 11: Network Security Fundamentals
 
-## 🔥 **1. Understanding Network Security**
+##  **1. Understanding Network Security**
 Network security refers to the set of policies, practices, and technologies designed to protect the integrity, confidentiality, and availability of a computer network and data. 
 
-### 🔑 **Key Objectives of Network Security:**
+###  **Key Objectives of Network Security:**
 - **Confidentiality** – Ensuring only authorized users can access data.
 - **Integrity** – Preventing unauthorized modification of data.
 - **Availability** – Ensuring network services are accessible when needed.
@@ -12,10 +12,10 @@ Network security refers to the set of policies, practices, and technologies desi
 
 ---
 
-## 🏰 **2. Types of Network Security Measures**
+##  **2. Types of Network Security Measures**
 Network security is implemented through multiple layers of defense. Below are the essential security mechanisms:
 
-### 🔒 **A. Firewalls**
+###  **A. Firewalls**
 Firewalls act as the first line of defense by filtering traffic based on predefined security rules.
 
 🔹 **Types of Firewalls:**
@@ -29,7 +29,7 @@ Firewalls act as the first line of defense by filtering traffic based on predefi
 
 ---
 
-### 🕵️ **B. Intrusion Detection and Prevention Systems (IDS/IPS)**
+###  **B. Intrusion Detection and Prevention Systems (IDS/IPS)**
 IDS and IPS monitor network traffic for suspicious activities and take action if necessary.
 
 🔹 **Differences:**
@@ -41,7 +41,7 @@ IDS and IPS monitor network traffic for suspicious activities and take action if
 
 ---
 
-### 🔑 **C. Network Access Control (NAC)**
+###  **C. Network Access Control (NAC)**
 NAC ensures that only authorized devices can access the network.
 
 🔹 **Components of NAC:**
@@ -54,7 +54,7 @@ NAC ensures that only authorized devices can access the network.
 
 ---
 
-### 📡 **D. Virtual Private Networks (VPNs)**
+###  **D. Virtual Private Networks (VPNs)**
 VPNs create a secure, encrypted tunnel for remote access to a network.
 
 🔹 **Types of VPNs:**
@@ -66,7 +66,7 @@ VPNs create a secure, encrypted tunnel for remote access to a network.
 
 ---
 
-### 🛠️ **E. Network Segmentation**
+###  **E. Network Segmentation**
 Dividing a network into isolated sections improves security and limits the spread of threats.
 
 🔹 **Methods of Segmentation:**
@@ -79,7 +79,7 @@ Dividing a network into isolated sections improves security and limits the sprea
 
 ---
 
-### 🧑‍💻 **F. Endpoint Security**
+###  **F. Endpoint Security**
 Protecting end-user devices such as laptops, smartphones, and IoT devices.
 
 🔹 **Security Measures:**
@@ -92,10 +92,10 @@ Protecting end-user devices such as laptops, smartphones, and IoT devices.
 
 ---
 
-## 🚨 **3. Common Network Security Threats**
+##  **3. Common Network Security Threats**
 Understanding threats is crucial to defending against them.
 
-### 🔻 **A. Denial-of-Service (DoS) & Distributed DoS (DDoS) Attacks**
+###  **A. Denial-of-Service (DoS) & Distributed DoS (DDoS) Attacks**
 Attackers flood a network with excessive traffic, causing service disruptions.
 
 🔹 **Mitigation:**
@@ -107,7 +107,7 @@ Attackers flood a network with excessive traffic, causing service disruptions.
 
 ---
 
-### 🕶️ **B. Phishing & Social Engineering**
+###  **B. Phishing & Social Engineering**
 Attackers trick users into divulging confidential information through deceptive messages.
 
 🔹 **Mitigation:**
@@ -119,7 +119,7 @@ Attackers trick users into divulging confidential information through deceptive 
 
 ---
 
-### 🦠 **C. Malware and Ransomware**
+###  **C. Malware and Ransomware**
 Malicious software that encrypts or damages files, demanding ransom for recovery.
 
 🔹 **Mitigation:**
@@ -131,32 +131,32 @@ Malicious software that encrypts or damages files, demanding ransom for recovery
 
 ---
 
-## 🏆 **4. Best Practices for Network Security**
-### ✅ **A. Implement the Principle of Least Privilege (PoLP)**
+##  **4. Best Practices for Network Security**
+###  **A. Implement the Principle of Least Privilege (PoLP)**
 Grant users and devices only the minimum access necessary.
 
-### 🔄 **B. Regularly Update and Patch Systems**
+###  **B. Regularly Update and Patch Systems**
 Keep software and firmware updated to protect against vulnerabilities.
 
-### 🔍 **C. Conduct Security Audits and Penetration Testing**
+###  **C. Conduct Security Audits and Penetration Testing**
 Regular security assessments help identify and fix vulnerabilities.
 
-### 🔐 **D. Enable Multi-Factor Authentication (MFA)**
+###  **D. Enable Multi-Factor Authentication (MFA)**
 Adds an extra layer of security by requiring a second verification method.
 
-### 🌍 **E. Monitor Network Traffic for Anomalies**
+###  **E. Monitor Network Traffic for Anomalies**
 Use network monitoring tools to detect unusual activity.
 
 ---
 
-## 🚀 **5. Conclusion**
+##  **5. Conclusion**
 Network security is an ongoing process requiring a multi-layered approach to defend against evolving threats. Organizations should implement robust security policies, train users, and deploy cutting-edge technologies to safeguard their networks effectively.
 
 > **"Security is not a product, but a process." – Bruce Schneier**
 
 ---
 
-## 📚 **Further Reading & Resources**
-- 🔗 [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-- 🔗 [OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/)
-- 🔗 [SANS Cybersecurity Training](https://www.sans.org/)
+##  **Further Reading & Resources**
+-  [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+-  [OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/)
+-  [SANS Cybersecurity Training](https://www.sans.org/)
