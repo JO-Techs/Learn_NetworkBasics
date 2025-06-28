@@ -63,4 +63,4 @@ Imagine a computer sending an email:
 ## Conclusion
 Understanding **frames, packets, encapsulation, and decapsulation** is crucial in networking. These processes ensure efficient and reliable communication across networks.
 
-### Next Lecture: **Router Operations and Routing** 🚀
+### Next Lecture: **Router Operations and Routing** 
