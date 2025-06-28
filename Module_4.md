@@ -78,5 +78,5 @@ ip route 0.0.0.0 0.0.0.0 203.0.113.1
 This knowledge is essential for understanding **how data moves across networks** and is fundamental to **network administration and security**.
 
 ---
-### 🚀 Next Lecture: LAN and WAN Communication
-In the next lecture, we will explore **how devices communicate within a LAN and across remote networks**. Stay tuned! 🎯
+###  Next Lecture: LAN and WAN Communication
+In the next lecture, we will explore **how devices communicate within a LAN and across remote networks**. Stay tuned! 
