@@ -1,11 +1,11 @@
-# 🛡️ Module 13: Network Access Control (NAC) & Zero Trust Security Models
+#  Module 13: Network Access Control (NAC) & Zero Trust Security Models
 
-## 📌 Introduction
+##  Introduction
 In today's complex network environments, ensuring that only authorized users and devices can access resources is critical. This module explores **Network Access Control (NAC)** and the **Zero Trust Security Model**, detailing their importance, implementation, and real-world applications.
 
 ---
 
-## 🏢 **1. Network Access Control (NAC)**
+##  **1. Network Access Control (NAC)**
 
 ### 🔹 **What is NAC?**
 **Network Access Control (NAC)** is a security solution that enforces policies on devices and users attempting to access a network. It ensures that only compliant, authenticated devices gain access to resources.
@@ -40,7 +40,7 @@ A company enforces **NAC** to ensure that only devices with up-to-date antivirus
 
 ---
 
-## 🔐 **2. Zero Trust Security Model**
+##  **2. Zero Trust Security Model**
 
 ### 🔹 **What is Zero Trust?**
 The **Zero Trust** model is a cybersecurity approach that assumes **no device or user should be trusted by default**, even if inside the network. Every access request must be verified continuously.
@@ -83,7 +83,7 @@ An employee logs into the corporate VPN from an unknown device. Under Zero Trust
 
 ---
 
-## ⚖️ **NAC vs. Zero Trust: Which One to Use?**
+##  **NAC vs. Zero Trust: Which One to Use?**
 | Feature | NAC | Zero Trust |
 |---------|----|------------|
 | Access Control | Controls access at the network level | Controls access at every level (network, apps, data) |
@@ -96,14 +96,14 @@ Organizations often **combine NAC and Zero Trust** to strengthen network securit
 
 ---
 
-## 📚 **Conclusion**
+##  **Conclusion**
 With increasing cyber threats, traditional perimeter security is no longer sufficient. **NAC** provides initial security by controlling network access, while **Zero Trust** extends security by continuously verifying users and devices. By implementing both, organizations can significantly reduce the risk of unauthorized access and data breaches.
 
 ---
 
-## 🔥 **Further Reading & Resources**
+##  **Further Reading & Resources**
 - [NIST Zero Trust Architecture Guide](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 - [Cisco NAC Overview](https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html)
 - [Zero Trust Security in Cloud Environments](https://www.microsoft.com/en-us/security/business/zero-trust)
 
-🔹 **Next Module:** Stay tuned for **Module 14 - Secure Network Protocols & VPNs** 🚀
+🔹 **Next Module:** Stay tuned for **Module 14 - Secure Network Protocols & VPNs** 
