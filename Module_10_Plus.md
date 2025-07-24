@@ -5,7 +5,7 @@ Cyber threats have evolved significantly, posing serious risks to individuals, b
 
 ---
 
-# 1️ Malware: The Silent Intruder
+# 1️. Malware: The Silent Intruder
 
 ###  What is Malware?
 Malware (malicious software) is designed to infiltrate, damage, or exploit systems without the user's consent. The primary categories include:
@@ -34,7 +34,7 @@ Malware (malicious software) is designed to infiltrate, damage, or exploit syste
 
 ---
 
-# 2️ Phishing Attacks: The Art of Deception
+# 2️. Phishing Attacks: The Art of Deception
 
 ###  What is Phishing?
 Phishing is a social engineering attack where cybercriminals impersonate trusted entities to steal sensitive information.
@@ -57,7 +57,7 @@ Phishing is a social engineering attack where cybercriminals impersonate trusted
 
 ---
 
-# 3️ Man-in-the-Middle (MITM) Attacks: Intercepting Communication
+# 3️. Man-in-the-Middle (MITM) Attacks: Intercepting Communication
 
 ###  What is MITM?
 A MITM attack occurs when an attacker secretly relays and alters communication between two parties.
@@ -78,7 +78,7 @@ A MITM attack occurs when an attacker secretly relays and alters communication b
 
 ---
 
-# 4️ Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks
+# 4️. Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks
 
 ###  What is a DoS/DDoS Attack?
 A DoS or DDoS attack aims to overwhelm a target system with excessive traffic, rendering it inaccessible.
