@@ -134,7 +134,7 @@ Cybersecurity is an ongoing battle. By staying informed and implementing robust 
 
 ---
 
-🚀 **Next Module:** [Advanced Intrusion Detection and Prevention] ➡️ Coming Soon!
+ **Next Module:** [Advanced Intrusion Detection and Prevention] --> Coming Soon!
 
-📌 **Contribute & Share**
-If you found this useful, feel free to fork, share, and contribute to this repository! Let's build a safer digital world together. 🌍✨
+ **Contribute & Share**
+If you found this useful, feel free to fork, share, and contribute to this repository! Let's build a safer digital world together. 
