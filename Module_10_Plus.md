@@ -122,12 +122,12 @@ Attackers use various techniques to guess or steal passwords.
 
 #  Conclusion: Strengthening Cybersecurity
 ###  Key Takeaways
-🔹 Keep software updated to patch vulnerabilities.
-🔹 Educate users about phishing and social engineering attacks.
-🔹 Use strong authentication mechanisms.
-🔹 Deploy security solutions like firewalls, IDS/IPS, and endpoint protection.
-🔹 Regularly back up critical data to mitigate ransomware risks.
-🔹 Monitor network traffic for unusual activity.
+-  Keep software updated to patch vulnerabilities.
+-  Educate users about phishing and social engineering attacks.
+-  Use strong authentication mechanisms.
+-  Deploy security solutions like firewalls, IDS/IPS, and endpoint protection.
+-  Regularly back up critical data to mitigate ransomware risks.
+-  Monitor network traffic for unusual activity.
 
 ###  Final Thoughts
 Cybersecurity is an ongoing battle. By staying informed and implementing robust security measures, we can significantly reduce the risk of cyber attacks.
